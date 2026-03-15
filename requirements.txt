@@ -9,3 +9,9 @@ numpy==2.1.3
 scikit-learn==1.5.2
 xgboost==2.1.3
 geopy==2.4.1
+ultralytics
+opencv-python
+opencv-contrib-python
+matplotlib
+seaborn
+mediapipe
